@@ -11,7 +11,7 @@
 - 🔭 I’m currently building awesome projects using **Angular, Node.js, and .NET**
 - 🌱 I’m constantly learning and exploring modern **Software Architecture**
 - 🎓 Pursuing a Bachelor's in Computer Science at **Minya University** (2024-2028)
-- 💬 Ask me about **MongoDB, Express, React, Node (MEAN/MERN), or Flutter**
+- 💬 Ask me about **MongoDB, Express, Angular, Node (MEAN), SQL, or Flutter**
 - 📫 How to reach me: **stevenashraf16@gmail.com**
 
 ---
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mongodb,dotnet,cs,flutter,dart,bootstrap,git,github,vscode,visualstudio&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mongodb,dotnet,cs,mysql,flutter,dart,bootstrap,git,github,vscode,visualstudio&perline=9" />
   </a>
 </p>
 
