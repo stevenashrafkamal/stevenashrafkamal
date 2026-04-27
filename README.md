@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MEAN+Stack+Enthusiast;.NET+Core+Developer;Flutter+Mobile+Apps+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MEAN+Stack+Enthusiast;.NET+Core+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🔭 I’m currently building awesome projects using **Angular, Node.js, and .NET**
 - 🌱 I’m constantly learning and exploring modern **Software Architecture**
 - 🎓 Pursuing a Bachelor's in Computer Science at **Minya University** (2024-2028)
-- 💬 Ask me about **MongoDB, Express, Angular, Node (MEAN), SQL, or Flutter**
+- 💬 Ask me about **MongoDB, Express, Angular, Node (MEAN), SQL,.NET**
 - 📫 How to reach me: **stevenashraf16@gmail.com**
 
 ---
