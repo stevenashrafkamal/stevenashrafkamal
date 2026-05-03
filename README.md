@@ -28,8 +28,11 @@
 
 ### 📊 GitHub Stats:
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenashrafkamal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Steven's GitHub Stats" />
+  <a href="https://github.com/stevenashrafkamal">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevenashrafkamal&theme=radical" alt="Steven's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
