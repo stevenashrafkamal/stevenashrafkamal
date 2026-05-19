@@ -44,19 +44,20 @@
 ### 🤝 Let's Connect:
 
 <p align="center">
-  <!-- LinkedIn -->
- <a href="https://linkedin.com/in/steven-ashraf-300020357" target="_blank">
+  <a href="https://linkedin.com/in/steven-ashraf-300020357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- Telegram -->
-  <a href="https://t.me/STEVENASHRAF">
+  <a href="https://t.me/STEVENASHRAF" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-   <!-- Email -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stevenashraf16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://steven-ashraf-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 <picture>
